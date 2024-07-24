@@ -1,2 +1,1 @@
-# Paradigm-application
-# Paradigm-application
+
